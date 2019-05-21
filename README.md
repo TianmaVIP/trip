@@ -1,1 +1,1 @@
- https://tianmavip.github.io/trip/.
+ https://tianmavip.github.io/trip/index.html
