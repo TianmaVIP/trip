@@ -1,2 +1,2 @@
  https://tianmavip.github.io/trip/index.html
-<a href="https://tianmavip.github.io/trip/index.html">demo</a>
+<a href="https://tianmavip.github.io/trip/index.html"></a>
